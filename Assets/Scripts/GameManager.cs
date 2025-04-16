@@ -28,6 +28,4 @@ public class GameManager : Singleton<GameManager>
             OnMoneyChanged.Invoke(_money);
         }
     }
-
-
 }
